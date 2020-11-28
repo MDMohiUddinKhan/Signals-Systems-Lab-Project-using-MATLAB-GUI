@@ -13,6 +13,11 @@ Also, I've done little audio processing where the program plays randomly selecte
 # Complete Simulation video link:
 https://drive.google.com/file/d/19akJr1Y0eWQ-W7XnrSgUyfdzytBrADFS/view?usp=sharing
 
+# Download the .exe software from this link: 
+https://drive.google.com/drive/folders/1xc1sF95DqxdvStj2zJTqOyTQnzUlF6sS?usp=sharing
+Install according to instructions, enjoy
+#### Please don't violate copyright.
+
 # Work samples:
 ![UniConverter_20201128062914](https://user-images.githubusercontent.com/69683125/100490885-7037a280-3149-11eb-8f3a-24ce1dead97e.gif)
 ![UniConverter_20201128063531](https://user-images.githubusercontent.com/69683125/100490315-ae7e9300-3144-11eb-80c1-aa7cdd7ac7e8.gif)
