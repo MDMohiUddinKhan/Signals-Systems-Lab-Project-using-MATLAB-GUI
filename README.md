@@ -19,13 +19,13 @@ Install according to instructions, enjoy
 #### Please don't violate copyright.
 
 # Work samples:
-#### Software Home Page
+#### Software Home Page:
 ![UniConverter_20201128062914](https://user-images.githubusercontent.com/69683125/100490885-7037a280-3149-11eb-8f3a-24ce1dead97e.gif)
-#### Example of Time scaling on signals
+#### Example of Time scaling of signals:
 ![UniConverter_20201128063722](https://user-images.githubusercontent.com/69683125/100490302-99a1ff80-3144-11eb-969a-05354b8acc3c.gif)
-#### Perfect Square Wave is made-up of more than 2000 harmonics which can be analized by Fourier sysnthesis
+#### Perfect Square Wave is made-up of more than 2000 harmonics which can be analized by Fourier sysnthesis:
 ![UniConverter_20201128063531](https://user-images.githubusercontent.com/69683125/100490315-ae7e9300-3144-11eb-80c1-aa7cdd7ac7e8.gif)
-#### Few other works
+#### Few other works:
 ![UniConverter_20201128070733](https://user-images.githubusercontent.com/69683125/100490792-72e5c800-3148-11eb-869e-259fb958f1a5.gif)
 
 # Questions that were solved & visualized:
