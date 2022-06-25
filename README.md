@@ -15,16 +15,20 @@ Also, I've done little audio processing where the program plays randomly selecte
 
 # Download the .exe software from this link: 
 [https://drive.google.com/drive/folders/1xc1sF95DqxdvStj2zJTqOyTQnzUlF6sS?usp=sharing](https://drive.google.com/drive/folders/17QSBGhVAaI6Yfh41XRKNQ_-115Lx1VEZ?usp=sharing)
+
 Install according to instructions, enjoy
 #### Please don't violate copyright.
 
 # Work samples:
 #### Software Home Page:
 ![UniConverter_20201128062914](https://user-images.githubusercontent.com/69683125/100490885-7037a280-3149-11eb-8f3a-24ce1dead97e.gif)
+
 #### Example of Time shifting & scaling of signals:
 ![UniConverter_20201128063722](https://user-images.githubusercontent.com/69683125/100490302-99a1ff80-3144-11eb-969a-05354b8acc3c.gif)
+
 #### Gibbs Phenomena & Perfect Square Wave is made-up of more than 2000 harmonics which can be analized by Fourier sysnthesis:
 ![UniConverter_20201128063531](https://user-images.githubusercontent.com/69683125/100490315-ae7e9300-3144-11eb-80c1-aa7cdd7ac7e8.gif)
+
 #### Few other works:
 ![UniConverter_20201128070733](https://user-images.githubusercontent.com/69683125/100490792-72e5c800-3148-11eb-869e-259fb958f1a5.gif)
 
