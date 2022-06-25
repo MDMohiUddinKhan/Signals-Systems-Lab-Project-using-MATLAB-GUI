@@ -21,6 +21,7 @@ Install according to instructions, enjoy
 
 # Work samples:
 #### Software Home Page:
+https://user-images.githubusercontent.com/69683125/100490885-7037a280-3149-11eb-8f3a-24ce1dead97e.gif
 ![UniConverter_20201128062914](https://user-images.githubusercontent.com/69683125/100490885-7037a280-3149-11eb-8f3a-24ce1dead97e.gif)
 
 #### Example of Time shifting & scaling of signals:
