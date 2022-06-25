@@ -11,10 +11,10 @@ Additionally I've included code to create randomly sorted group from given roll 
 Also, I've done little audio processing where the program plays randomly selected audio among 3 audio source files & can be muted using the audio mute button.
 
 # Complete Simulation video link:
-[https://drive.google.com/file/d/19akJr1Y0eWQ-W7XnrSgUyfdzytBrADFS/view?usp=sharing](https://drive.google.com/file/d/1zn_po8KESrOfIFMvz3um-IZU0hE-igv9/view?usp=sharing)
+https://drive.google.com/file/d/1zn_po8KESrOfIFMvz3um-IZU0hE-igv9/view?usp=sharing
 
 # Download the .exe software from this link: 
-[https://drive.google.com/drive/folders/1xc1sF95DqxdvStj2zJTqOyTQnzUlF6sS?usp=sharing](https://drive.google.com/drive/folders/17QSBGhVAaI6Yfh41XRKNQ_-115Lx1VEZ?usp=sharing)
+https://drive.google.com/drive/folders/17QSBGhVAaI6Yfh41XRKNQ_-115Lx1VEZ?usp=sharing
 
 Install according to instructions, enjoy
 #### Please don't violate copyright.
